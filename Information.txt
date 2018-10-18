@@ -1,0 +1,4 @@
+Welcome to the master branch. This is just a text file to illustrate
+how to use cloning on a project with one branch only. This will demonstrate
+how you can work on a project from two different computers or how to work together 
+with others in a very simple way.
