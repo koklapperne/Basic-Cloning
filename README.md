@@ -16,7 +16,7 @@ Clone in to the new empty folder
 ```
 Git Command:
 $ clone https://github.com/koklapperne/Basic-Cloning
-This will download the remote to the local folder and create repository
+This will download the remote to the local folder and create a local repository
 ```
 
 ## Existing local repository
