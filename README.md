@@ -8,4 +8,4 @@ Git Command:
 $ cd "/H/Udvikling/Git/Tutorial/Basic cloning"
 This will change to the local repository
 ```
-It is important to realize that you can use an arbitrary folder name, but is good practice to use the same folder name on both computeres
+It is important to realize that you can use an arbitrary folder name, but is good practice to use the same folder name on both computeres.
