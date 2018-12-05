@@ -28,3 +28,5 @@ $ git Pull
 This will download the updated repository from GitHub AND merge it with it with the local repository. 
 It is important to realize that Git Pull is a Git Fetch command followed by a Git Merge command.
 ```
+## One editor at the time
+Restrict yourself to one editor at the time to avoid confusion and deletion of relevant work.
