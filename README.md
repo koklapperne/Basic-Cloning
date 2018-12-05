@@ -25,5 +25,6 @@ Git Command:
 $ cd "/H/Udvikling/Git/Tutorial/Basic cloning"
 This will change to the local repository
 $ git Pull
-This will download the updated repository from GitHub AND merge it with it with the local repository. It is important to realize that Git Pull is a Git Fetch command followed by a Git Merge command.
+This will download the updated repository from GitHub AND merge it with it with the local repository. 
+It is important to realize that Git Pull is a Git Fetch command followed by a Git Merge command.
 ```
